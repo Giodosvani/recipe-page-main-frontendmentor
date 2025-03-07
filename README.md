@@ -47,7 +47,7 @@ I want to use more device breakpoints to make my pages fully responsive.
 ### Useful resources
 
 - [MDN Device Breakpoints](https://www.w3schools.com/howto/howto_css_media_query_breakpoints.asp) - To add breakpoints inside CSS
-- [MDN Table Sizes](https://www.w3schools.com/html/html_table_sizes.asp) - To make the <hr> tag full size on the table
+- [MDN Table Sizes](https://www.w3schools.com/html/html_table_sizes.asp) - To make the hr tag full size on the table
 
 
 ## Author
