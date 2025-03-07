@@ -24,7 +24,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [Solution](https://your-solution-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/responsive-recipe-page-using-device-breakpoints-e333-0JMBb)
 - Live Site URL: [Live Site](https://giodosvani.github.io/recipe-page-main-frontendmentor)
 
 ## My process
