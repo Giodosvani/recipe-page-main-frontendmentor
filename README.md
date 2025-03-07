@@ -25,7 +25,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 ### Links
 
 - Solution URL: [Solution](https://your-solution-url.com)
-- Live Site URL: [Live Site](https://your-live-site-url.com)
+- Live Site URL: [Live Site](https://giodosvani.github.io/recipe-page-main-frontendmentor)
 
 ## My process
 
@@ -53,4 +53,4 @@ I want to use more device breakpoints to make my pages fully responsive.
 ## Author
 
 - Website - [Giovani Oliveira](https://giodosvani.dev.br)
-- Frontend Mentor - [@giodsovani](https://www.frontendmentor.io/profile/giodosvani)
+- Frontend Mentor - [@giodosvani](https://www.frontendmentor.io/profile/giodosvani)
